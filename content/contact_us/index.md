@@ -41,6 +41,6 @@ You can contact us here!
     </div>
   </div>
   <div class="text-center">
-    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>) Image by <a href="https://www.freepik.com/free-photo/side-view-men-handshaking-agreement-after-meeting_12065525.htm#query=people%20shaking%20hands&position=36&from_view=keyword&track=ais">Freepik</a></small></p>
   </div>
 </form>
