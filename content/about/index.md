@@ -3,6 +3,8 @@ title: "About"
 description: "Bernard Lodge #225 Listowel, Ontario Free Masonry FreeMasons"
 showDate: false
 layoutBackgroundHeaderSpace: false
+showPagination: false
+
 
 ---
 ## Address

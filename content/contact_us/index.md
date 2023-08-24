@@ -3,6 +3,7 @@ title: "Contact Us"
 date: "2023-08-23"
 showDate: false
 layoutBackgroundHeaderSpace: false
+showPagination: false
 ---
 You can contact us here!
 
