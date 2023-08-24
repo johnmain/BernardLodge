@@ -1,33 +1,29 @@
 ---
-title: "About"
+title: "Our Purpose"
 description: "Bernard Lodge #225 Listowel, Ontario Free Masonry FreeMasons"
 showDate: false
 layoutBackgroundHeaderSpace: false
 showPagination: false
-
-
+heroStyle: "big"
 ---
-## Address
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d720.7418962445527!2d-80.95384582337283!3d43.731997766152915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88295db281d2060b%3A0x43bd15ae319428f4!2sListowel%20Masonic%20Hall!5e0!3m2!1sen!2sca!4v1692840007267!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-Located at 135A Main St W, Listowel, ON N4W 1A2
+## Making Good Men Better.
 
-_(LODGE ROOM IS ACCESSIBLE BY ELEVATOR)_
+Freemasonry is the oldest and largest fraternal organization in the world. Its members share a common goal of helping each other become better men. Its body of knowledge and system of ethics is based on the belief that each man has a responsibility to improve himself while being devoted to his family, faith, country, and fraternity.
 
-Meetings held every 3rd Tuesday except July and August at 7:30 PM
+Its roots go back centuries and its members are diverse: high profile leaders, physicians, construction workers, farmers…and maybe you.
 
-## Lodge Officers
+## Ancient…and modern.
 
-| **Name** | **Office** |
-| ----------- | ----------- |
-| W. Bro Terry Pook | Worshipful Master |
-| R. W. Bro. John Main | Immediate Past Master |
-| V.W. Bro. Allan Toner | Senior Warden |
-| W. Bro. Miles Dadson | Junior Warden |
-| R.W. Bro. Bob Tanner | Chaplain |
-| V.W. Bro. Doug Davidson | Treasurer |
-| W. Bro. Don Kritzer | Secretary |
-| | Director of Ceremonies |
-| Bro. Michael Enns| Senior Deacon |
-| Bro. Sean McKechnie | Junior Deacon |
-| | Senior Steward |
-| | Junior Steward |
+We’re united by three ancient and fundamental principles—brotherly love, charity and truth—that are made relevant to the 21st century through the personal development, good works and social connections available to our members in the 550+ lodges across Ontario.
+
+## Great benefits…for you and the world.
+
+Freemasonry offers much to its members—the opportunity to grow, the chance to make a difference and the means to build a better world for our children. It offers the chance to socialize and work with men who have the same values and ideals.
+
+We strengthen and improve our character by learning and practicing basic virtues of fraternal love, charity, and truth. Our principles extend far beyond our interactions with each other, and we strive to apply them to our daily lives.
+
+## And there’s so much more.
+
+It's easy to learn about Masons—starting with the pages of this website. Need more details? Looking for a Mason in your community to share his personal perspective?
+
+<a href="/contact_us">Contact Us</a>

@@ -18,12 +18,17 @@
   [[main]]
   name = "Links"
   pageRef = "links"
+  weight = 20
+
+[[main]]
+  name = "Officers"
+  pageRef = "officers"
   weight = 15
 
 [[main]]
   name = "Contact Us"
   pageRef = "contact_us"
-  weight = 20
+  weight = 40
 
 
 
