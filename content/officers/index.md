@@ -9,7 +9,7 @@ showPagination: false
 | <div style="width:290px">**Name** </div>| <div style="width:290px">**Office**</div>|
 | ----------- | ----------- |
 | W. Bro. Terry Pook | Worshipful Master |
-| R.W. Bro. John Main | Immediate Past Master |
+| R.W. Bro. John Main | Immediate Past Master / Historian |
 | V.W. Bro. Allan Toner | Senior Warden |
 | W. Bro. Miles Dadson | Junior Warden |
 | R.W. Bro. Bob Tanner | Chaplain |
@@ -22,4 +22,3 @@ showPagination: false
 | R.W. Bro Gerald Metzger | Junior Steward |
 | W. Bro. Evert Scheeringa | Inner Guard |
 | W. Bro. Sean Eaton| Outer Guard |
-| R.W. Bro. John Main | Historian
