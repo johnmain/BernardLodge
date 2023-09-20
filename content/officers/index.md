@@ -6,7 +6,7 @@ layoutBackgroundHeaderSpace: false
 showPagination: false
 ---
 
-| <div style="width:290px">**Name** </div>| <div style="width:290px">**Office**</div>|
+| <div>**Name** </div>| <div>**Office**</div>|
 | ----------- | ----------- |
 | W. Bro. Terry Pook | Worshipful Master |
 | R.W. Bro. John Main | Immediate Past Master / Historian |
