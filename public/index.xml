@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on Bernard Lodge #225</title>
+    <link>/</link>
+    <description>Recent content in Welcome! on Bernard Lodge #225</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>John Main Designs ©</copyright>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact Us</title>
+      <link>/contact_us/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/contact_us/</guid>
+      <description>You can contact us here!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/contact_us/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Lodge Officers</title>
+      <link>/officers/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/officers/</guid>
+      <description>Name Office W.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/officers/featured.png" />
+    </item>
+    
+    <item>
+      <title>Masonic Links</title>
+      <link>/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/links/</guid>
+      <description> Canadian Grand Lodge Sites Concordant Bodies Grand Lodge of Canada in the Province of Ontario Scottish Rite of Canada Grand Lodge of Prince Edward Island Royal Arch Masons in the Province of Ontario Grand Lodge of Newfoundland &amp;amp; Labrador Grand Lodge of Nova Scotia Grand Lodge of Quebec Grand Lodge of Saskatchewan Grand Lodge of Alberta Grand Lodge of British Columbia and Yukon </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/links/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Our Purpose</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Making Good Men Better.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/about/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
