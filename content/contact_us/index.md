@@ -33,7 +33,7 @@ You can contact us here!
   <div class="form-group row">
     <label for="message" class="col-4 col-form-label">Message</label>
     <div class="col-8">
-      <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control" style="color:black"></textarea>
+      <textarea id="message" name="message" cols="30" rows="10" required="required" class="form-control" style="color:black"></textarea>
     </div>
   </div>
   <div class="form-group row">
