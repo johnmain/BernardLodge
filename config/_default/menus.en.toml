@@ -30,6 +30,11 @@
   pageRef = "contact_us"
   weight = 40
 
+  [[main]]
+  name = "News"
+  pageRef = "posts"
+  weight = 16
+
 
 
 #[[main]]
