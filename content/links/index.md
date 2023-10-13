@@ -5,7 +5,7 @@ showDate: false
 layoutBackgroundHeaderSpace: false
 showPagination: false
 ---
-
+Proudly a member Lodge of <a href="https://hurondist.ca">Huron District</a>
 | **Canadian Grand Lodge Sites** | **Concordant Bodies** |
 | ----------- | ----------- |
 | [Grand Lodge of Canada in the Province of Ontario](https://ontariomasons.ca)| [Scottish Rite of Canada](https://scottishritecanada.ca/)|
