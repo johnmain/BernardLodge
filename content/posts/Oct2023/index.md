@@ -7,10 +7,10 @@ showDate : true
 showHero : false
 ---
 ![EA Masons](featured.jpg)
-*Bro Branson Visscher, WB Terry Pook, Bro Christopher Neuman*
+*Bro Branson Visscher, WB Terry Pook, Bro Christopher Newman*
 
-Bernard Lodge put on a Double 1st Degree for Branson Visscher and Christopher Neuman.  A great night was had by all.
+Bernard Lodge put on a Double 1st Degree for Branson Visscher and Christopher Newman.  A great night was had by all.
 Welcome to the Greatest Fraternaty in the World!
 
 ![EA Masons](20231017_220141.jpg)
-*Bro Michael Enns, Bro Branson Visscher, WB Terry Pook, Bro Christopher Neuman, Bro Sean McKechnie*
+*Bro Michael Enns, Bro Branson Visscher, WB Terry Pook, Bro Christopher Newman, Bro Sean McKechnie*
