@@ -18,7 +18,7 @@ showPagination: false
 | W. Bro. George Arlein | Director of Ceremonies |
 | Bro. Michael Enns | Senior Deacon |
 | Bro. Sean McKechnie | Junior Deacon |
-| W. Bro. Scott Tanner | Senior Steward |
-| R.W. Bro Gerald Metzger | Junior Steward |
+| R.W. Bro Gerald Metzger | Senior Steward |
+| W. Bro. Scott Tanner | Junior Steward |
 | W. Bro. Evert Scheeringa | Inner Guard |
 | W. Bro. Sean Eaton| Outer Guard |

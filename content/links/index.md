@@ -10,7 +10,7 @@ Proudly a member Lodge of <a href="https://hurondist.ca">Huron District</a>
 | ----------- | ----------- |
 | [Grand Lodge of Canada in the Province of Ontario](https://ontariomasons.ca)| [Scottish Rite of Canada](https://scottishritecanada.ca/)|
 | [Grand Lodge of Prince Edward Island](http://www.freemasonry.pe.ca)| [Royal Arch Masons in the Province of Ontario](http://www.royalarchmasons.on.ca/)|
-| [Grand Lodge of Newfoundland & Labrador](http://www.glnl.ca)||
+| [Grand Lodge of Newfoundland & Labrador](http://www.glnl.ca)|[Order of the Eastern Star](https://www.ontariooes.ca/)|
 | [Grand Lodge of Nova Scotia](http://www.grandlodgens.org)||
 | [Grand Lodge of Quebec](http://www.glquebec.org/)||
 | [Grand Lodge of Saskatchewan](http://www.saskmasons.ca/)||
