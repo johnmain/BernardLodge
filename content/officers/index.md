@@ -8,17 +8,18 @@ showPagination: false
 
 | <div>**Name** </div>| <div>**Office**</div>|
 | ----------- | ----------- |
-| W. Bro. Terry Pook | Worshipful Master |
-| R.W. Bro. John Main | Immediate Past Master / Historian |
-| V.W. Bro. Allan Toner | Senior Warden |
-| W. Bro. Miles Dadson | Junior Warden |
+| V.W. Bro. Allan Toner | Worshipful Master |
+| W. Bro. Terry Pook | Immediate Past Master |
+| Bro. Michael Enns | Senior Warden |
+| Bro. Sean McKechnie | Junior Warden |
 | R.W. Bro. Bob Tanner | Chaplain |
 | V.W. Bro. Doug Davidson | Treasurer |
 | W. Bro. Don Kritzer | Secretary |
 | W. Bro. George Arlein | Director of Ceremonies |
-| Bro. Michael Enns | Senior Deacon |
-| Bro. Sean McKechnie | Junior Deacon |
-| R.W. Bro Gerald Metzger | Senior Steward |
-| W. Bro. Scott Tanner | Junior Steward |
+| W Bro. Scott Tanner | Senior Deacon |
+| W. Bro. Miles Dadson | Junior Deacon |
+| Bro. Tucker Campbell | Senior Steward |
+| Bro. Brad Ferguson | Junior Steward |
 | W. Bro. Evert Scheeringa | Inner Guard |
-| W. Bro. Sean Eaton| Outer Guard |
+| R.W. Bro. Gerald Metzger| Outer Guard |
+| R.W. Bro. John Main | Historian |
