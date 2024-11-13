@@ -15,6 +15,8 @@ buildDrafts = false
 buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
+[params]
+  Description= "Bernard Lodge #225 Listowel, Ontario Free Masonry, FreeMasons, Ancient Free and Accepted Masonry, Freemasonry, Listowel"
 
 [pagination]
   pagerSize = 5
