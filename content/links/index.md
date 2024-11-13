@@ -13,6 +13,7 @@ Proudly a member Lodge of <a href="https://hurondist.ca">Huron District</a>
 | [Grand Lodge of Newfoundland & Labrador](http://www.glnl.ca)|[Order of the Eastern Star](https://www.ontariooes.ca/)|
 | [Grand Lodge of Nova Scotia](http://www.grandlodgens.org)||
 | [Grand Lodge of Quebec](http://www.glquebec.org/)||
+| [Grand Lodge of Manitoba](https://www.glmb.ca/)||
 | [Grand Lodge of Saskatchewan](http://www.saskmasons.ca/)||
 | [Grand Lodge of Alberta](http://www.freemasons.ab.ca/)||
 | [Grand Lodge of British Columbia and Yukon](http://freemasonry.bcy.ca/)||
