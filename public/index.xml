@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>John Main Designs ©</copyright>
-    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bernard Lodge DDGM Official Visit 2025</title>
+      <link>//localhost:1313/posts/officialvisit2025/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/officialvisit2025/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/officialvisit2025/featured.jpg" />
+    </item>
+    
     <item>
       <title>Bernard Lodge 2024 Christmas Dinner</title>
       <link>//localhost:1313/posts/christmas2024/</link>

@@ -16,56 +16,60 @@ buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
 [params]
-  Description= "Bernard Lodge #225 Listowel, Ontario Free Masonry, FreeMasons, Ancient Free and Accepted Masonry, Freemasonry, Listowel"
-  disableImageOptimization = true
+Description = "Bernard Lodge #225 Listowel, Ontario Free Masonry, FreeMasons, Ancient Free and Accepted Masonry, Freemasonry, Listowel"
+disableImageOptimization = true
+featuredImageStyle = "fit"
+featuredImageSize = "600x400"
+featuredImagePosition = "top"
 
 [pagination]
-  pagerSize = 5
+pagerSize = 5
 
 [imaging]
-  anchor = 'smart'
-  resampleFilter = "Lanczos" 
+anchor = 'smart'
+resampleFilter = "Lanczos"
+
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
-  series = "series"
+tag = "tags"
+category = "categories"
+author = "authors"
+series = "series"
 
 [sitemap]
-  changefreq = 'daily'
-  filename = 'sitemap.xml'
-  priority = 0.5
+changefreq = 'daily'
+filename = 'sitemap.xml'
+priority = 0.5
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
 
 [related]
-  threshold = 0
-  toLower = false
+threshold = 0
+toLower = false
 
-    [[related.indices]]
-        name = "tags"
-        weight = 100
+[[related.indices]]
+name = "tags"
+weight = 100
 
-    [[related.indices]]
-        name = "categories"
-        weight = 100
+[[related.indices]]
+name = "categories"
+weight = 100
 
-    [[related.indices]]
-        name = "series"
-        weight = 50
+[[related.indices]]
+name = "series"
+weight = 50
 
-    [[related.indices]]
-        name = "authors"
-        weight = 20
+[[related.indices]]
+name = "authors"
+weight = 20
 
-    [[related.indices]]
-        name = "date"
-        weight = 10
+[[related.indices]]
+name = "date"
+weight = 10
 
-    [[related.indices]]
-      applyFilter = false
-      name = 'fragmentrefs'
-      type = 'fragments'
-      weight = 10
+[[related.indices]]
+applyFilter = false
+name = 'fragmentrefs'
+type = 'fragments'
+weight = 10
