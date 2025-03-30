@@ -17,10 +17,7 @@ buildFuture = false
 # googleAnalytics = "G-XXXXXXXXX"
 [params]
 Description = "Bernard Lodge #225 Listowel, Ontario Free Masonry, FreeMasons, Ancient Free and Accepted Masonry, Freemasonry, Listowel"
-disableImageOptimization = true
-featuredImageStyle = "fit"
-featuredImageSize = "600x400"
-featuredImagePosition = "top"
+
 
 [pagination]
 pagerSize = 5
