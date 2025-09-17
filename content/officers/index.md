@@ -16,7 +16,7 @@ showPagination: false
 | V.W. B. Doug Davidson | Treasurer |
 | W. B. Don Kritzer | Secretary |
 | W. B. George Arlein | Director of Ceremonies |
-| W B. Scott Tanner | Senior Deacon |
+| W. B. Scott Tanner | Senior Deacon |
 | R.W. B. Gerald Metzger | Junior Deacon |
 | B. Brad Ferguson | Senior Steward |
 | W.B. Murray Cockwell | Junior Steward |
