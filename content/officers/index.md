@@ -1,6 +1,6 @@
 ---
 title: "Lodge Officers"
-date: "2023-08-23"
+date: "2025-05-20"
 showDate: false
 layoutBackgroundHeaderSpace: false
 showPagination: false
@@ -8,18 +8,18 @@ showPagination: false
 
 | <div>**Name** </div>| <div>**Office**</div>|
 | ----------- | ----------- |
-| V.W. Bro. Allan Toner | Worshipful Master |
-| W. Bro. Terry Pook | Immediate Past Master |
-| Bro. Michael Enns | Senior Warden |
-| Bro. Sean McKechnie | Junior Warden |
-| R.W. Bro. Bob Tanner | Chaplain |
-| V.W. Bro. Doug Davidson | Treasurer |
-| W. Bro. Don Kritzer | Secretary |
-| W. Bro. George Arlein | Director of Ceremonies |
-| W Bro. Scott Tanner | Senior Deacon |
-| W. Bro. Miles Dadson | Junior Deacon |
-| Bro. Tucker Campbell | Senior Steward |
-| Bro. Brad Ferguson | Junior Steward |
-| W. Bro. Evert Scheeringa | Inner Guard |
-| R.W. Bro. Gerald Metzger| Outer Guard |
-| R.W. Bro. John Main | Historian |
+| V.W. B. Allan Toner | Worshipful Master |
+|  | Immediate Past Master |
+| B. Sean McKechnie  | Senior Warden |
+| W. B. Miles Dadson | Junior Warden |
+| R.W. B. Bob Tanner | Chaplain |
+| V.W. B. Doug Davidson | Treasurer |
+| W. B. Don Kritzer | Secretary |
+| W. B. George Arlein | Director of Ceremonies |
+| W B. Scott Tanner | Senior Deacon |
+| R.W. B. Gerald Metzger | Junior Deacon |
+| B. Brad Ferguson | Senior Steward |
+| W.B. Murray Cockwell | Junior Steward |
+| W. B. Evert Scheeringa | Inner Guard |
+| | Outer Guard |
+| R.W. B. John Main | Historian |
