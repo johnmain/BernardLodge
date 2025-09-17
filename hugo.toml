@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://bernardlodge225.org'
 languageCode = 'en-us'
 title = 'Bernard Lodge'
 theme = 'blowfish'

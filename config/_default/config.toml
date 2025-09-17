@@ -17,7 +17,21 @@ buildFuture = false
 # googleAnalytics = "G-XXXXXXXXX"
 [params]
 Description = "Bernard Lodge #225 Listowel, Ontario Free Masonry, FreeMasons, Ancient Free and Accepted Masonry, Freemasonry, Listowel"
+keywords = ["Freemasonry", "Masonic Lodge", "Bernard Lodge", "Listowel", "Ontario", "Free Masonry", "Ancient Free and Accepted Masonry", "Lodge 225"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[privacy]
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
 
 [pagination]
 pagerSize = 5
@@ -34,12 +48,14 @@ author = "authors"
 series = "series"
 
 [sitemap]
-changefreq = 'daily'
+changefreq = 'weekly'
 filename = 'sitemap.xml'
-priority = 0.5
+priority = 0.8
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+section = ["HTML"]
+page = ["HTML"]
 
 [related]
 threshold = 0
