@@ -2,6 +2,67 @@
 title: "Welcome!"
 description: "Bernard Lodge #225 Listowel, Ontario Free Masonry, FreeMasons, Ancient Free and Accepted Masonry, Freemasonry, Listowel"
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Bernard Lodge #225",
+  "alternateName": "Bernard Lodge No. 225",
+  "description": "Free and Accepted Masonic Lodge in Listowel, Ontario",
+  "url": "https://bernardlodge225.org/",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "135A Main St W",
+    "addressLocality": "Listowel",
+    "addressRegion": "ON",
+    "postalCode": "N4W 1A2",
+    "addressCountry": "CA"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "43.731997766152915",
+    "longitude": "-80.95384582337283"
+  },
+  "foundingLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Listowel",
+      "addressRegion": "Ontario",
+      "addressCountry": "Canada"
+    }
+  },
+  "memberOf": {
+    "@type": "Organization",
+    "name": "Grand Lodge of Ancient Free and Accepted Masons of Canada in the Province of Ontario",
+    "url": "https://grandlodge.on.ca/"
+  },
+  "event": {
+    "@type": "Event",
+    "name": "Lodge Meetings",
+    "description": "Regular Lodge meetings held every 3rd Tuesday except July and August",
+    "startTime": "19:30",
+    "location": {
+      "@type": "Place",
+      "name": "Listowel Masonic Hall",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "135A Main St W",
+        "addressLocality": "Listowel",
+        "addressRegion": "ON",
+        "postalCode": "N4W 1A2",
+        "addressCountry": "CA"
+      }
+    }
+  },
+  "accessibilityFeature": ["wheelchairAccessible"],
+  "amenityFeature": {
+    "@type": "LocationFeatureSpecification",
+    "name": "Elevator Access",
+    "value": "Lodge room is accessible by elevator"
+  }
+}
+</script>
 
 We want to thank you for visiting the Bernard Lodge website. We hope it has provided you with all the necessary information you require or were searching for. If you would like to learn more or get an answer(s) to question(s) not listed here, we invite you to get in touch with us by completing the form on the contact us page and someone will be in touch with you as soon as possible.
 
@@ -14,4 +75,3 @@ Located at 135A Main St W, Listowel, ON N4W 1A2
 _(LODGE ROOM IS ACCESSIBLE BY ELEVATOR)_
 
 Meetings held every 3rd Tuesday except July and August at 7:30 PM
-
