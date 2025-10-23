@@ -6,7 +6,7 @@ author: "John Main"
 showDate : true
 showHero : false
 ---
-![WB Terry Pook](featured.jpg)
+{{< rotate src="featured.jpg" angle="270" >}}
 *W.B. Terry Pook*
 
 It is with great sadness we bid our farewell to W.B. Terry Pook.

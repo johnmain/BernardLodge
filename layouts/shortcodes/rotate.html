@@ -1,0 +1,10 @@
+{{/* rotate.html — rotate without using the images.* namespace */}} {{ $src :=
+.Get "src" }} {{ $angle := int (or (.Get "angle") 90) }} {{ $img := or
+(.Page.Resources.GetMatch $src) (resources.Get $src) }} {{ if not $img }} {{
+errorf "rotate shortcode: image not found: %q (page: %q)" $src .Page.File.Path
+}} {{ end }} {{/* Keep original width; append r<angle>
+    to rotate */}} {{ $spec := printf "%dx r%d" $img.Width $angle }} {{ $out :=
+    $img.Resize $spec }}
+
+    <img src="{{ $out.RelPermalink }}" alt="{{ $src }}" />
+</angle>

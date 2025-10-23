@@ -2,3 +2,8 @@ baseURL = 'https://bernardlodge225.org'
 languageCode = 'en-us'
 title = 'Bernard Lodge'
 theme = 'blowfish'
+
+[module]
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
