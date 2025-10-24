@@ -10,5 +10,11 @@ showHero : false
 R.W. Bro. Jamie Mcfadden visited Bernard Lodge on his Official Visit to Bernard Lodge.
 
 ![image](20251021_203812.jpg)
-*R.W. Bro. Jamie Mcfadden, V.W. Bro. Alan Toner, visiting Masters of the district
-Members of Bernard Lodge*
+*Front row*\
+RW Bro. Bob Tanner,RW Bro Jamie McFadden, W.Bro. Allan Toner, RW Bro. Gerald Metzger, W Bro. Everett Scheeringa\
+*2nd row*\
+Bro.Kevin Haskins, W Bro Scott Tanner, W Bro David Dryburgh\
+*3rd row*\
+W Bro Clint Mock, W Bro Jason Cornish, Bro Brad Ferguson\
+*Back*\
+V W Bro Matt Young, W Bro David Ross, W Bro. Joseph Wregg
