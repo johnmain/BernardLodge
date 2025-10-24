@@ -11,7 +11,7 @@ R.W. Bro. Jamie Mcfadden visited Bernard Lodge on his Official Visit to Bernard 
 
 ![image](20251021_203812.jpg)
 *Front row*\
-RW Bro. Bob Tanner,RW Bro Jamie McFadden, W.Bro. Allan Toner, RW Bro. Gerald Metzger, W Bro. Everett Scheeringa\
+RW Bro. Bob Tanner,RW Bro Jamie McFadden, V W.Bro. Allan Toner, RW Bro. Gerald Metzger, W Bro. Everett Scheeringa\
 *2nd row*\
 Bro.Kevin Haskins, W Bro Scott Tanner, W Bro David Dryburgh\
 *3rd row*\
