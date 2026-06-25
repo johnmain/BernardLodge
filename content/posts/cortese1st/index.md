@@ -7,7 +7,6 @@ showDate : true
 showHero : false
 ---
 ![Brother Gino Cortese](featured.jpg)
-*(Brethren pictured in the photo - can be updated upon review)*
 
 On April 21st, Bernard Lodge had the distinct pleasure of initiating Gino Cortese into the mysteries of Ancient Freemasonry. 
 

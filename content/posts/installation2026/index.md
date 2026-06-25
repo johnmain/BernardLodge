@@ -7,7 +7,6 @@ showDate : true
 showHero : false
 ---
 ![Worshipful Master Sean McKechnie](featured.jpg)
-*(Brethren pictured in the photo - can be updated upon review)*
 
 On May 19th, Bernard Lodge celebrated the Installation and Investiture of Worshipful Brother Sean McKechnie as Worshipful Master, along with his officers for the ensuing Masonic year.
 

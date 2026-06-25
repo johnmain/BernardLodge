@@ -7,7 +7,6 @@ showDate : true
 showHero : false
 ---
 ![Brother Kevin Haskins](featured.jpg)
-*(Brethren pictured in the photo - can be updated upon review)*
 
 On February 2nd, Bernard Lodge had the privilege and pleasure of holding a 3rd Degree Ceremony to Raise Brother Kevin Haskins to the Sublime Degree of a Master Mason.
 
