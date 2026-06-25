@@ -25,7 +25,7 @@ keywords = ["Freemasonry", "Masonic Lodge", "Bernard Lodge", "Listowel", "Ontari
       unsafe = true
 
 [privacy]
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
