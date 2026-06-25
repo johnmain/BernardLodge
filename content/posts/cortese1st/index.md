@@ -16,6 +16,5 @@ Brother Cortese took his very first step in Ancient Craft Masonry by being initi
 We are thrilled to welcome Brother Gino Cortese to our ranks and to the greatest fraternity in the world!
 
 ![Brother Gino Cortese and Brethren](IMG_20260624_190743.jpg)
-*(Brethren pictured in the second photo - can be updated upon review)*
 
 **Welcome, Brother Cortese!**
