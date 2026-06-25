@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://bernardlodge225.org/posts/haskins3rd/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <loc>https://bernardlodge225.org/posts/cortese1st/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bernardlodge225.org/</loc>
+    <lastmod>2026-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bernardlodge225.org/posts/haskins3rd/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
